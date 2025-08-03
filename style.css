@@ -399,6 +399,7 @@ color: #d49715;
         flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
+        gap: 5px;
     }
     .footer {
         width: 100%;
@@ -429,3 +430,4 @@ color: #d49715;
 
 
     }
+
